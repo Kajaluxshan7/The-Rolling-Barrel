@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/The-Rolling-Barrel/static/css/main.779fdfdf.css",
-    "main.js": "/The-Rolling-Barrel/static/js/main.c29efd9d.js",
-    "static/media/hero-bg.jpg": "/The-Rolling-Barrel/static/media/hero-bg.0af1e53b757cbdc833e0.jpg",
-    "static/media/news1.jpg": "/The-Rolling-Barrel/static/media/news1.93b6041a298cbaad385d.jpg",
-    "static/media/news2.jpg": "/The-Rolling-Barrel/static/media/news2.bbe29409be2d54e026f3.jpg",
-    "static/media/chicken.jpg": "/The-Rolling-Barrel/static/media/chicken.5a1d6dc40e93369cbb99.jpg",
-    "static/media/burger.jpg": "/The-Rolling-Barrel/static/media/burger.03cf551d7a8a1a9333da.jpg",
-    "static/media/coffee.jpg": "/The-Rolling-Barrel/static/media/coffee.d4e0815938d9174dc2c4.jpg",
-    "index.html": "/The-Rolling-Barrel/index.html",
-    "main.779fdfdf.css.map": "/The-Rolling-Barrel/static/css/main.779fdfdf.css.map",
-    "main.c29efd9d.js.map": "/The-Rolling-Barrel/static/js/main.c29efd9d.js.map"
+    "main.css": "/Kajaluxshan7/The-Rolling-Barrel.git/static/css/main.779fdfdf.css",
+    "main.js": "/Kajaluxshan7/The-Rolling-Barrel.git/static/js/main.5bc7285b.js",
+    "static/media/hero-bg.jpg": "/Kajaluxshan7/The-Rolling-Barrel.git/static/media/hero-bg.0af1e53b757cbdc833e0.jpg",
+    "static/media/news1.jpg": "/Kajaluxshan7/The-Rolling-Barrel.git/static/media/news1.93b6041a298cbaad385d.jpg",
+    "static/media/news2.jpg": "/Kajaluxshan7/The-Rolling-Barrel.git/static/media/news2.bbe29409be2d54e026f3.jpg",
+    "static/media/chicken.jpg": "/Kajaluxshan7/The-Rolling-Barrel.git/static/media/chicken.5a1d6dc40e93369cbb99.jpg",
+    "static/media/burger.jpg": "/Kajaluxshan7/The-Rolling-Barrel.git/static/media/burger.03cf551d7a8a1a9333da.jpg",
+    "static/media/coffee.jpg": "/Kajaluxshan7/The-Rolling-Barrel.git/static/media/coffee.d4e0815938d9174dc2c4.jpg",
+    "index.html": "/Kajaluxshan7/The-Rolling-Barrel.git/index.html",
+    "main.779fdfdf.css.map": "/Kajaluxshan7/The-Rolling-Barrel.git/static/css/main.779fdfdf.css.map",
+    "main.5bc7285b.js.map": "/Kajaluxshan7/The-Rolling-Barrel.git/static/js/main.5bc7285b.js.map"
   },
   "entrypoints": [
     "static/css/main.779fdfdf.css",
-    "static/js/main.c29efd9d.js"
+    "static/js/main.5bc7285b.js"
   ]
 }
