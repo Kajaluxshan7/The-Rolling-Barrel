@@ -23,11 +23,20 @@ jobs:
       - name: Build the project
         run: npm run build
 
-      - name: List workspace directory
-        run: ls -R
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Clean up branch
+        run: |
+          git fetch --prune origin
+          git checkout gh-pages
+          git reset --hard origin/gh-pages
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
+          force_orphan: true
